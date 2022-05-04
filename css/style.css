@@ -109,6 +109,7 @@ body, html {
 	.section {
 		flex-direction: column;
 		padding:  16px;
+		display: block;
 	}
 	.section-logo {
 		margin-bottom: 24px;
