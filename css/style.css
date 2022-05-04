@@ -98,6 +98,9 @@ body, html {
 }
 
 @media (max-width: 1024px) {
+	html, body {
+		height: auto;
+	}
 	body {
 		display: block;
 		padding: 24px;
