@@ -110,9 +110,12 @@ body, html {
 		flex-direction: column;
 		padding:  16px;
 	}
+	.section-logo {
+		margin-bottom: 24px;
+	}
 	.title {
 		text-align: center;
-		font: 700 60px/82px 'Helvetica Neue';
+		font: 700 60px/70px 'Helvetica Neue';
 	}
 	.description {
 		text-align: center;
