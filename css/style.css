@@ -86,7 +86,7 @@ body, html {
 }
 @media (max-width: 1200px) {
 	.section {
-		padding: 0 40px;
+		padding: 0 24px;
 	}
 	.title {
 		font-size: 70px;
@@ -101,7 +101,6 @@ body, html {
 
 	.section {
 		flex-direction: column;
-		padding: 0 24px;
 		flex-wrap: wrap;
 	}
 	.title {
